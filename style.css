@@ -1,7 +1,7 @@
 /* General Styles */
 body {
     font-family: Arial, sans-serif;
-    background-image: url("/home/mayur/background.jpg"); /* Updated path to the background image */
+    background-image: url("background.jpg"); /* Updated path to the background image */
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
