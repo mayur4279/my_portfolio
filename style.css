@@ -47,6 +47,10 @@ section p {
     font-size: 18px;
 }
 
+section ul  { 
+    color: #343a40;
+}
+
 .list-group-item {
     font-size: 18px;
     background-color: #f8f9fa; /* Light background color for list items */
